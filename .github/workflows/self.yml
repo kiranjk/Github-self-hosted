@@ -1,4 +1,4 @@
-name: My First self hosted  GitHub Action
+name: My First self hosted  GitHub Actions
 
 on: [push]
 
